@@ -1,0 +1,6 @@
+pdfminer.six
+python-docx
+transformers
+torch  # for model backend
+flask
+sqlalchemy
