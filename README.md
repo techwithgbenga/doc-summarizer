@@ -12,7 +12,7 @@ A Python tool to ingest PDFs, DOCX, and TXT files; extract and structure text; s
 
 ## Setup
 ```bash
-git clone https://github.com/techwithgbenga/doc-summarizer.git
+git clone https://github.com/techwithgbenga/doc_summarizer.git
 cd doc-summarizer
 pip install -r requirements.txt
 ```
